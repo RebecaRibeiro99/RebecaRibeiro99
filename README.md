@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div>
+  ![Snake animation](https://github.com/RebecaRibeiro99/RebecaRibeiro99/blob/output/github-contribution-grid-snake.svg)
+  </div>
 <!--
 **RebecaRibeiro99/RebecaRibeiro99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
